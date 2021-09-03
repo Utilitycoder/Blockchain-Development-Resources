@@ -50,7 +50,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [vyper.fun](https://vyper.fun/lessons.html#)               |
 | [Money legos](https://money-legos.studydefi.com/#/)        |
 | [Duneanalytics](https://duneanalytics.com/)                |
-| [Ethfiddle](https://ethfiddle.com/)                        |
+| [Ethfiddle](https://ethfiddle.com/)
+| [CryptoZombies](https://cryptozombies.io)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
